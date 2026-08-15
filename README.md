@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
