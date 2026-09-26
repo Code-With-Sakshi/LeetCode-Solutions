@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Code-With-Sakshi/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
